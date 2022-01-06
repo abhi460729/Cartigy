@@ -2,6 +2,6 @@
 
 The Shopping Cart has features to add the products to the cart for a user.
 
-<img width="739" alt="MyCart" src="https://user-images.githubusercontent.com/22481474/148383653-9bf949b5-c90f-4291-9ba3-4cd55760f8ef.png">
+![image](https://user-images.githubusercontent.com/22481474/148414961-64f7862f-e379-4101-a958-5dc392ff6eec.png)
 
-<img width="927" alt="AddProduct" src="https://user-images.githubusercontent.com/22481474/148383687-285afc7f-a173-407d-8d3c-4d3f899f60d6.png">
+![image](https://user-images.githubusercontent.com/22481474/148415061-b523d667-e252-47ff-963e-03a891284fb8.png)
